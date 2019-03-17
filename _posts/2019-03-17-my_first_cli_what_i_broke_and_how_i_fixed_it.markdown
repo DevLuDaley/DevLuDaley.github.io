@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My first CLI, what I broke and how I fixed it"
-date:       2019-03-17 21:26:23 +0000
+date:       2019-03-17 17:26:24 -0400
 permalink:  my_first_cli_what_i_broke_and_how_i_fixed_it
 ---
 
