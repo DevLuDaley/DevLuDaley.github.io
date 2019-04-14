@@ -1,0 +1,31 @@
+---
+layout: post
+title:      "mvp vs baw"
+date:       2019-04-14 22:20:56 +0000
+permalink:  mvp_vs_baw
+---
+
+
+In programming the mvp, minimum viable product, are a group of specs outlining the requirements of the project. The PM (Product Manager) usually has the mvp specs. Almost like attributes to a class they’re blueprints. These are the rules on how to make the client/customer happy (hopefully). 
+
+When I enrolled at Flatiron School’s remote immersive full stack software engineering bootcamp I was excited about building products. I taught myself how to dj, make beats, and record/mix audio so I’ve built digital products before. The primary difference between making a beat and making a beat for an artist is that there is a basic sound (or mvp) that the artist is either known for or looking for. 
+They might enjoy a signature 808 bass drum, triplet hi-hats, cowbells with a hi-pass filter or even a pad being played like a baseline. The point is that there is always an mvp, requirements that need to be met, and everything else should be considered as extra, not necessarily avoided, just extra.
+
+I call that extra, baw (bells and whistles). Why? Because in music, less is more. Silence is an instrument and needs it’s elbow room, so to speak.
+Baw tends to be extra, noisy, and if you’re not careful it can distract an artist/developer from the bigger picture or more important issues. When I made beats it was easy to get lost in creating a song and add tons of baw. The difficult part was only creating the mvp.
+
+I’ve taken the same approach to software development and more specifically, to my school projects. I love project week. There's pressure to perform, time, resource limits,  and a satisfaction that rivals any game winning shot. During my project weeks I plan my days according to my project goals and review my completion timetable twice each day (during my standup/sitdown).
+
+While building a project there many decisions to be made. To help myself, I create a basic outline of the mvp and build from there. I don’t ignore or avoid baw though. I encourage it. I add them into my outline as extras or stretch goals. Throughout my project if I encounter baw that aren’t on my list I add them. If they are on my list I just make a note about how I would implement the feature now or later.  If I’m at a point where I need make an important decision based on the baw, I allow myself 5-15 minutes to explore if the baw would actually help the overall functionality or ux of the product before I get back on my path to the mvp. 
+
+First I git branch/create a copy of the project so that I won't break my program while experimenting. When time expires I git checkout back to the orignal branch and continue toward the minimum viable product. If all goes well the feature is included in the mvp and scheduled. If not, I record information that can help me restart the project in 2 days or 2 years. 
+
+I've been told that the best programmers are lifelong learners. I figure I’ll eventually gain the knowledge and experience to make features work or learn a lesson about why they didn't work. I still end up heading down rabit holes from time to time but I like using the mvp as my anchor. Kinda like the talisman in the Inception movie.  
+
+I’ve promised myself that I'll work in this way so that I can remain curious while I focus on delivering a product within a given deadline. 
+
+
+sidenote/random semi-pro-tip: 
+I like creating workflows. In this project I used the shotgun gem to connect to my browser. I was using pry/tux to view into my database so I need to stop running shotgun to do so. 
+
+I use vs code. I have 3-4 terminals open dedicated to pry, tux, shotgun, and misc. My misc terminal (in vs code) is used for general calls i.e rake db commands, etc. Sometimes I have just 1 terminal open in vs code and I put shotgun on in my terminal app and use full screen so that I can view http requests and active record sql calls on a dedicated page. Hope it helps. 
