@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "small fixes = more efficient workflow"
-date:       2020-10-15 03:57:50 +0000
+title:      "small fixes = a more efficient workflow"
+date:       2020-10-14 23:57:51 -0400
 permalink:  small_fixes_more_efficient_workflow
 ---
 
